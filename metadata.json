@@ -1,0 +1,8 @@
+{
+  "name": "ProMarket",
+  "description": "Premium AI-Powered Construction \u0026 Hardware Marketplace Platform with Warehouse, Delivery and Admin command nodes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
